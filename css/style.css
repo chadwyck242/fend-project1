@@ -1,0 +1,33 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+.container {
+    display: grid;
+    width: 100%;
+}
+
+
+img, embed, object, video {
+    max-width: 100%;
+}
+
+.header-bigtext {
+    text-align: right;
+    font-size: 2.0em;
+}
+
+.header-text {
+    text-align: right;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2em;
+}
+
+
+#logo {
+    float: left;
+    width: 92px;
+    height: 92px;
+}
